@@ -7,7 +7,7 @@ A secure, end-to-end encrypted messaging application built with SwiftUI. Telemax
 SETUP:
 1. Create a new Google Sheets.
 2. Extensions → Apps Script.
-3. Paste all this code into AppsScript/Code.gs
+3. Paste all this code into [AppsScript/Code.gs](./AppsScript/Code.gs)
 5. Deploy → New Version → Web Application:
 • Run as: Me
 • Who has access: Anyone
