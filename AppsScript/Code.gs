@@ -1,14 +1,14 @@
 // ============================================================
-//  Telemax — Google Apps Script Backend
+// Telemax — Google Apps Script Backend
 // ============================================================
-//  SETUP:
-//  1. Создай новую Google Таблицу (Google Sheets).
-//  2. Расширения → Apps Script.
-//  3. Вставь весь этот код в Code.gs.
-//  4. Деплой → Новая версия → Веб-приложение:
-//       • Выполнять как: Я (Me)
-//       • Кто имеет доступ: Все (Anyone)
-//  5. Скопируй URL и вставь его в Telemax при регистрации.
+// SETUP:
+// 1. Create a new Google Sheets.
+// 2. Extensions → Apps Script.
+// 3. Paste all this code into Code.gs .
+// 4. Deploy → New Version → Web Application:
+// • Run as: Me
+// • Who has access: Anyone
+// 5. Copy the URL and paste it into Telemax during registration.
 // ============================================================
 
 const SS = SpreadsheetApp.getActiveSpreadsheet();
