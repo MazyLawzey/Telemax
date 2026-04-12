@@ -2,6 +2,17 @@
 
 A secure, end-to-end encrypted messaging application built with SwiftUI. Telemax provides privacy-focused communication with advanced encryption, group chat support, and real-time messaging capabilities.
 
+## How to start?
+
+SETUP:
+1. Create a new Google Sheets.
+2. Extensions → Apps Script.
+3. Paste all this code into Code.gs
+4. Deploy → New Version → Web Application:
+• Run as: Me
+• Who has access: Anyone
+5. Copy the URL and paste it into Telemax during registration.
+
 ## Features
 
 ### 🔐 Security
