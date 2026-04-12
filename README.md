@@ -1,4 +1,9 @@
-# Telemax
+<div align="center">
+  <img width="200" src="https://github.com/MazyLawzey/Telemax/blob/c0de964eb165c0b7969e92ccf8c34b369b20441b/AppIcon.icon/Assets/Frame%202.png"/>
+
+  # Telemax
+  
+</div>
 
 A secure, end-to-end encrypted messaging application built with SwiftUI. Telemax provides privacy-focused communication with advanced encryption, group chat support, and real-time messaging capabilities.
 
