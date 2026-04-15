@@ -192,8 +192,3 @@ Backend API integration (uses Google Sheets as database).
 - Message expiration (disappearing messages)
 - Screenshot detection
 - Backup and recovery mechanisms
-
----
-
-**Version**: 1.0.0  
-**Last Updated**: April 2026
