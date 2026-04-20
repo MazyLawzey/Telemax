@@ -192,3 +192,5 @@ Backend API integration (uses Google Sheets as database).
 - Message expiration (disappearing messages)
 - Screenshot detection
 - Backup and recovery mechanisms
+
+- 🛌
