@@ -193,4 +193,3 @@ Backend API integration (uses Google Sheets as database).
 - Screenshot detection
 - Backup and recovery mechanisms
 
-- 🛌
