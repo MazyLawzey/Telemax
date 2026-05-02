@@ -7,8 +7,7 @@
 
 A secure, end-to-end encrypted messaging application built with SwiftUI. Telemax provides privacy-focused communication with advanced encryption, group chat support, and real-time messaging capabilities.
 
-> **Note**: I have no plans to actively develop, maintain, or update this project. I simply dropped this repository as a proof-of-concept to demonstrate that the official Telegram app on macOS could have a much better, native UI/UX. This is purely for educational and demonstrational purposes.
-
+> **Note**: I have no plans to actively develop, maintain, or update this project.
 
 ## How to start?
 
